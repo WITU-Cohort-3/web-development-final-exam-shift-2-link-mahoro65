@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+}
+
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.menu2{
+
+    display: grid;
+    width: 500px;
+    height: 500px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0px;
+    margin: 40px;
+
+}
